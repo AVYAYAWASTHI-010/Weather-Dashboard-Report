@@ -85,7 +85,7 @@ To create a user-friendly, live weather monitoring dashboard that:
 ## 6. Screenshots / Demos
 
 📸 **Dashboard Preview**  
-![Weather Dashboard Screenshot]((https://github.com/AVYAYAWASTHI-010/Weather-Dashboard-Report/blob/main/Weather%20Dashboard%20.jpg))
+![Weather Dashboard Screenshot] https://github.com/AVYAYAWASTHI-010/Weather-Dashboard-Report/blob/main/Weather%20Dashboard%20.jpg
 
 ---
 
